@@ -1,7 +1,22 @@
-/* Place your CSS styles in this file */
-
-h1 {
-    text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
+h2 {
+    text-align: left;
+    font-family: "Source Sans Pro", 'Times New Roman', Times, serif;
     font-weight: normal;
 }
+
+p {
+    text-align: left;
+    font-size: 30px;
+    margin-top: 0px;
+  }
+  
+  body {
+    background-image: url("https://media.tenor.com/93btrHia1oMAAAAM/dancing-cow-cow.gif");
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin-right: 200px;
+    margin-top: 200px;
+    background-attachment: fixed;  
+    background-color: rgb(249, 251, 248);
+  }
+  
